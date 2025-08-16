@@ -3,14 +3,23 @@
 **FitCheck** is a full-stack mobile app designed to let users share, explore, and tag outfits in a social-first, visually engaging platform.
 
 ---
----
 
-## Screenshots
 
-![Login](assets/screenshots/home.png)  
-![Explore Feed](assets/screenshots/explore.png)
-![Closet](assets/screenshots/closet.png)    
 
+<div style="display: flex; gap: 20px;">
+  <div>
+    <img src="assets/screenshots/home.png" alt="Login" width="250"/>
+    <p style="text-align:center;">Login</p>
+  </div>
+  <div>
+    <img src="assets/screenshots/explore.png" alt="Explore Feed" width="250"/>
+    <p style="text-align:center;">Explore Feed</p>
+  </div>
+  <div>
+    <img src="assets/screenshots/closet.png" alt="Closet" width="250"/>
+    <p style="text-align:center;">Closet</p>
+  </div>
+</div>
 ---
 ## Key Features & Contributions
 
