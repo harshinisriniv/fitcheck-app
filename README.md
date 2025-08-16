@@ -6,20 +6,16 @@
 
 
 
-<div style="display: flex; gap: 20px;">
-  <div>
-    <img src="assets/screenshots/home.png" alt="Login" width="250"/>
-    <p style="text-align:center;">Login</p>
-  </div>
-  <div>
-    <img src="assets/screenshots/explore.png" alt="Explore Feed" width="250"/>
-    <p style="text-align:center;">Explore Feed</p>
-  </div>
-  <div>
-    <img src="assets/screenshots/closet.png" alt="Closet" width="250"/>
-    <p style="text-align:center;">Closet</p>
-  </div>
-</div>
+
+## Screenshots
+
+<p float="left">
+  <img src="assets/screenshots/home.png" width="250" />
+  <img src="assets/screenshots/explore.png" width="250" />
+  <img src="assets/screenshots/closet.png" width="250" />
+</p>
+
+---
 ---
 ## Key Features & Contributions
 
