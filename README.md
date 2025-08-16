@@ -1,51 +1,31 @@
-# Welcome to your Expo app 👋
+# FitCheck 👗
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**FitCheck** is a full-stack mobile app designed to let users share, explore, and tag outfits in a social-first, visually engaging platform.
 
-## Get started
+---
+---
 
-1. Install dependencies
+## Screenshots
 
-   ```bash
-   npm install
-   ```
+![Login](assets/screenshots/home.png)  
+![Explore Feed](assets/screenshots/explore.png)
+![Closet](assets/screenshots/closet.png)    
 
-2. Start the app
+---
+## Key Features & Contributions
 
-   ```bash
-   npx expo start
-   ```
+- **Full-Stack Development:** Designed and developed the app using **React Native**, **Firebase**, and **Expo**, enabling real-time social interactions and outfit discovery.  
+- **Dynamic Content Discovery:** Implemented a **real-time post tagging and aesthetic search system** using Firestore queries for seamless feed navigation and personalized recommendations.  
+- **Responsive UI/UX:** Engineered a **Masonry-style Explore feed** and profile pages optimized for mobile, supporting user-generated content and aesthetic categorization.  
+- **Authentication & Data Management:** Integrated **Firebase Auth** and **Firestore** for secure user authentication, real-time data storage, and dynamic routing based on UID.  
+- **Scalability & Engagement:** Built with scalability in mind, laying the foundation for **AI-driven outfit recommendations** and **interactive style challenges**.  
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Tech Stack
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- **Frontend:** React Native, Expo  
+- **Backend / Database:** Firebase (Firestore, Auth)  
+- **Styling & Layout:** Responsive mobile-first design with Masonry feed layout  
 
-## Get a fresh project
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# fitcheck-app
